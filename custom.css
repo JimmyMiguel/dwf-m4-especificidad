@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body .contenedor.contenedor-1 {
+    width: 960px;
+    height: 100vh;
+    background-color: #FAFAFA;
+    padding: 70px;
+    margin: auto;
+ }
+
+#letra {
+    font-size: 50px;
+}
+
+div>p.texto {
+
+    width: 527px;
+    height: 150px;
+    font-size: 20px;
+    color: black;
+}
